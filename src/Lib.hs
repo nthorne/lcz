@@ -14,6 +14,12 @@ yellow = "\x1b[33m"
 blue = "\x1b[34m"
 magenta = "\x1b[35m"
 cyan = "\x1b[36m"
+light_red = "\x1b[91m"
+light_green = "\x1b[92m"
+light_yellow = "\x1b[93m"
+light_blue = "\x1b[94m"
+light_magenta = "\x1b[95m"
+light_cyan = "\x1b[96m"
 reset = "\x1b[0m"
 
 
